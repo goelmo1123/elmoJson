@@ -1,11 +1,73 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+    "id": 1,
+    "nombre": "Pizza pequeña",
+    "precio": 10,
+    "categoria": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Pizza mediana",
+    "precio": 20,
+    "categoria": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Pizza grande",
+    "precio": 30,
+    "categoria": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Jugo de limón",
+    "precio": 12,
+    "categoria": 2
+  },
+  {
+    "id": 5,
+    "nombre": "Jugo de Naranja",
+    "precio": 12,
+    "categoria": 2
+  },
+  {
+    "id": 6,
+    "nombre": "Jugo de mango",
+    "precio": 12,
+    "categoria": 2
+  },
+  {
+    "id": 7,
+    "nombre": "Porcion de torta de vainilla",
+    "precio": 10,
+    "categoria": 3
+  },
+  {
+    "id": 8,
+    "nombre": "Porcion de torta de fresa",
+    "precio": 10,
+    "categoria": 3
+  },
+  {
+    "id": 9,
+    "nombre": "Porcion de torta de chocolate",
+    "precio": 10,
+    "categoria": 3
+  },
+  {
+    "id": 10,
+    "nombre": "Triple de pollo",
+    "precio": 15,
+    "categoria": 3
+  },
+  {
+    "id": 11,
+    "nombre": "Café Expresso",
+    "precio": 5,
+    "categoria": 1
+  },
+  {
+    "id": 12,
+    "nombre": "Café Macchiato",
+    "precio": 7,
+    "categoria": 1
   }
-}
+
