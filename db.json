@@ -1,4 +1,4 @@
-[ 
+
  {
     "id": 1,
     "nombre": "Pizza pequeña",
@@ -71,4 +71,3 @@
     "precio": 7,
     "categoria": 1
   }
-]
